@@ -1,4 +1,4 @@
-# Analytical Photogrammetry
+# Analytical Photogrammetry Project
 A C++ project that implements the five core algorithms of photogrammetry (analytical part), including space resection, space intersection, interior orientation, relative orientation, and absolute orientation.
 
 To execute any photogrammetry task, you can run the main() function in the Photogrammetry.cpp file.
